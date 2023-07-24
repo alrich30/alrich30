@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alrich30
-- 👀 I’m interested in web backend by the time im typing this
+- 👀 I’m interested in backend by the time im typing this
 - 🌱 I’m currently learning git,Java
   
 
